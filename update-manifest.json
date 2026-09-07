@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "product": "RichChords",
+  "latestVersion": "0.1.0",
+  "minimumSupportedVersion": "0.1.0",
+  "releaseNotes": "RichChords 0.1.0 is the first test release: unison widening, ensemble chorus, shimmer reverb, and top-end sparkle behind five knobs, three modes, and one increasingly wealthy mascot.",
+  "releaseNotesUrl": "https://github.com/Autonomous-Capital-Allocation-System/RichChords-Updates/blob/main/CHANGELOG.md",
+  "downloadPageUrl": "https://github.com/Autonomous-Capital-Allocation-System/RichChords/releases/latest"
+}
