@@ -1,5 +1,18 @@
 # RichChords release notes
 
+## 0.2.1
+
+Hardening release from an edge-case audit - no sound changes.
+
+- Survives NaN/Inf audio from misbehaving upstream plugins; the wet chain
+  self-heals instantly instead of going permanently silent.
+- Stable at any sample rate (verified 22.05 kHz through 192 kHz).
+- Host bypass switches (Live device on/off, Logic bypass) now drive the
+  plug-in's click-free bypass and stay in sync with the power button.
+- Corrupted saved state can no longer open a zero-size editor window.
+- Shift mid-drag changes knob sensitivity smoothly instead of jumping.
+- Reported reverb tail corrected to 15 s.
+
 ## 0.2.0
 
 - Bolder, crystalline voicing: allpass diffusion networks around the shimmer

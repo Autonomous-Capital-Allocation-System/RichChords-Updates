@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "product": "RichChords",
-  "latestVersion": "0.2.0",
+  "latestVersion": "0.2.1",
   "minimumSupportedVersion": "0.1.0",
-  "releaseNotes": "RichChords 0.2.0 goes big: crystalline shimmer (diffusion-smoothed pitch shifting), a new OTT-style Radiance stage on Glow, hotter unison and chorus, a bypass button for A/B, a resizable interface, and a fix for the Windows white-screen on first open in Ableton.",
+  "releaseNotes": "RichChords 0.2.1 is a bulletproofing release with no sound changes: immunity to broken audio from other plugins, stability at every sample rate, DAW bypass switches wired to the click-free power button, and smoother fine-control knob drags.",
   "releaseNotesUrl": "https://github.com/Autonomous-Capital-Allocation-System/RichChords-Updates/blob/main/CHANGELOG.md",
   "downloadPageUrl": "https://github.com/Autonomous-Capital-Allocation-System/RichChords/releases/latest"
 }
