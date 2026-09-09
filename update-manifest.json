@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "product": "RichChords",
-  "latestVersion": "0.2.1",
+  "latestVersion": "0.2.2",
   "minimumSupportedVersion": "0.1.0",
-  "releaseNotes": "RichChords 0.2.1 is a bulletproofing release with no sound changes: immunity to broken audio from other plugins, stability at every sample rate, DAW bypass switches wired to the click-free power button, and smoother fine-control knob drags.",
+  "releaseNotes": "RichChords 0.2.2 adds the DHC Studio artist credit to the control panel - click the logo to hear the music behind ACAS Tools on Spotify.",
   "releaseNotesUrl": "https://github.com/Autonomous-Capital-Allocation-System/RichChords-Updates/blob/main/CHANGELOG.md",
   "downloadPageUrl": "https://github.com/Autonomous-Capital-Allocation-System/RichChords/releases/latest"
 }

@@ -1,5 +1,10 @@
 # RichChords release notes
 
+## 0.2.2
+
+- DHC Studio credit: the artist's logo sits in the bottom-right of the
+  control panel and links to the DHC Studio Spotify artist page.
+
 ## 0.2.1
 
 Hardening release from an edge-case audit - no sound changes.
