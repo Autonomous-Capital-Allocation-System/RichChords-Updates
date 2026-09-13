@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "product": "RichChords",
-  "latestVersion": "0.2.2",
+  "latestVersion": "0.2.3",
   "minimumSupportedVersion": "0.1.0",
-  "releaseNotes": "RichChords 0.2.2 adds the DHC Studio artist credit to the control panel - click the logo to hear the music behind ACAS Tools on Spotify.",
+  "releaseNotes": "RichChords 0.2.3 adds the Pump knob (tempo-synced sidechain-style breathing), detuned unison voices in Width for real supersaw thickness, and a new high-resolution mascot film that tracks every knob.",
   "releaseNotesUrl": "https://github.com/Autonomous-Capital-Allocation-System/RichChords-Updates/blob/main/CHANGELOG.md",
   "downloadPageUrl": "https://github.com/Autonomous-Capital-Allocation-System/RichChords/releases/latest"
 }

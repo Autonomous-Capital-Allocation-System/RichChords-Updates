@@ -1,5 +1,16 @@
 # RichChords release notes
 
+## 0.2.3
+
+- New Pump knob: tempo-synced ducking on every beat, locked to your DAW's
+  playhead - the sidechained-pad breathing of melodic bass without routing
+  a sidechain. 0% is off; older projects load with Pump off and sound
+  exactly as before.
+- Width now stacks four detuned unison voices on top of the stereo delay
+  taps for real supersaw thickness.
+- New high-resolution mascot film that tracks every knob accurately (the
+  old film looped twice and drifted out of step).
+
 ## 0.2.2
 
 - DHC Studio credit: the artist's logo sits in the bottom-right of the
