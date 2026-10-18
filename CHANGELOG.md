@@ -1,5 +1,9 @@
 # RichChords release notes
 
+## 1.0.0 (2026-10-18)
+
+First full release. Code-signed installers (Windows Authenticode; macOS Developer ID + notarized), updates that download and install from inside the plug-in, a hardened editor and a new 1.0 user guide. Still free: no license, no activation, no telemetry.
+
 ## 0.2.3
 
 - New Pump knob: tempo-synced ducking on every beat, locked to your DAW's

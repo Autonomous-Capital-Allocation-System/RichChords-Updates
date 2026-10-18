@@ -1,9 +1,9 @@
 {
-  "schemaVersion": 1,
-  "product": "RichChords",
-  "latestVersion": "0.2.3",
-  "minimumSupportedVersion": "0.1.0",
-  "releaseNotes": "RichChords 0.2.3 adds the Pump knob (tempo-synced sidechain-style breathing), detuned unison voices in Width for real supersaw thickness, and a new high-resolution mascot film that tracks every knob.",
-  "releaseNotesUrl": "https://github.com/Autonomous-Capital-Allocation-System/RichChords-Updates/blob/main/CHANGELOG.md",
-  "downloadPageUrl": "https://github.com/Autonomous-Capital-Allocation-System/RichChords/releases/latest"
+    "schemaVersion":  1,
+    "product":  "RichChords",
+    "latestVersion":  "1.0.0",
+    "minimumSupportedVersion":  "0.1.0",
+    "releaseNotes":  "RichChords 1.0.0 is here: code-signed installers (no security warnings), updates that install from inside the plug-in, and a new user guide. Still free.",
+    "releaseNotesUrl":  "https://github.com/Autonomous-Capital-Allocation-System/RichChords-Updates/blob/main/CHANGELOG.md",
+    "downloadPageUrl":  "https://github.com/Autonomous-Capital-Allocation-System/RichChords-Updates/releases/tag/v1.0.0"
 }
